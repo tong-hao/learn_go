@@ -1,0 +1,10 @@
+tasks:
+  task1:
+    ssh: 127.0.0.1
+    input:
+      c1: red
+
+  task2:
+    ssh: 127.0.0.1
+    input:
+      c2: yellow
